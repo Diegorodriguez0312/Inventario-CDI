@@ -1,0 +1,10 @@
+com\uts\edu\productosapp\JakartaRestConfiguration.class
+com\uts\edu\productosapp\resources\JakartaEE10Resource.class
+com\inventario\web\PreferenciasBean.class
+com\inventario\cdi\MessageBean.class
+com\inventario\model\Producto.class
+com\inventario\persistence\ProductoDAO.class
+com\inventario\domain\ValidadorProducto.class
+com\inventario\web\ProductoServlet.class
+com\inventario\cdi\DataSourceProducer.class
+com\inventario\facade\ProductoFacade.class
